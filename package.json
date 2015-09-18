@@ -1,7 +1,7 @@
 {
   "name": "ionide-installer",
   "main": "./lib/installer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Installer for Ionide project",
   "repository": "https://github.com/Ionide/ionide-installer",
   "license": "MIT",
