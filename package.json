@@ -11,14 +11,14 @@
   "dependencies": {
     "atom-package-dependencies": "latest"
   },
-  "package-dependencies": [
-    "atom-yeoman",
-    "linter",
-    "advanced-open-file",
-    "ionide-fsharp",
-    "ionide-paket",
-    "ionide-fake",
-    "ionide-fsi",
-    "ionide-yeoman"
-  ]
+  "package-dependencies": {
+    "atom-yeoman" : "",
+    "linter" : "",
+    "advanced-open-file" : "",
+    "ionide-fsharp" : "",
+    "ionide-paket" : "",
+    "ionide-fake" : "",
+    "ionide-fsi" : "",
+    "ionide-yeoman" : ""
+    }
 }
