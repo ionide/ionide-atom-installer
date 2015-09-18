@@ -1,0 +1,24 @@
+{
+  "name": "ionide-installer",
+  "main": "./lib/installer",
+  "version": "0.0.0",
+  "description": "Installer for Ionide project",
+  "repository": "https://github.com/Ionide/ionide-installer",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+      "atom-package-dependencies": "latest"
+  },
+  "package-deps": [
+    "atom-yeoman",
+    "linter",
+    "advanced-open-file",
+    "ionide-fsharp",
+    "ionide-paket",
+    "ionide-fake",
+    "ionide-fsi",
+    "ionide-yeoman"
+  ]
+}
