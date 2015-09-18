@@ -11,7 +11,7 @@
   "dependencies": {
     "atom-package-dependencies": "latest"
   },
-  "package-deps": [
+  "package-dependencies": [
     "atom-yeoman",
     "linter",
     "advanced-open-file",
