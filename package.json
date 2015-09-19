@@ -9,16 +9,16 @@
     "atom": ">=0.174.0 <2.0.0"
   },
   "dependencies": {
-    "atom-package-dependencies": "latest"
+    "atom-package-deps": "^2.1.3"
   },
-  "package-dependencies": {
-    "atom-yeoman": "",
-    "linter": "",
-    "advanced-open-file": "",
-    "ionide-fsharp": "",
-    "ionide-paket": "",
-    "ionide-fake": "",
-    "ionide-fsi": "",
-    "ionide-yeoman": ""
-  }
+  "package-depes": [
+    "atom-yeoman",
+    "linter",
+    "advanced-open-file",
+    "ionide-fsharp",
+    "ionide-paket",
+    "ionide-fake",
+    "ionide-fsi",
+    "ionide-yeoman"
+  ]
 }
