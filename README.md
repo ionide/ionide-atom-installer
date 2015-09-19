@@ -1,11 +1,11 @@
-# Ionide-FAKE
+# Ionide-Installer
 
 ## Contributing and copyright
 
-The project is hosted on [GitHub](https://github.com/ionide/ionide-fake) where you can [report issues](https://github.com/ionide/ionide-fake/issues), fork
+The project is hosted on [GitHub](https://github.com/ionide/ionide-installer) where you can [report issues](https://github.com/ionide/ionide-installer/issues), fork
 the project and submit pull requests.
 
-The library is available under [MIT license](https://github.com/ionide/ionide-fake/blob/master/LICENSE.md), which allows modification and
+The library is available under [MIT license](https://github.com/ionide/ionide-installer/blob/master/LICENSE.md), which allows modification and
 redistribution for both commercial and non-commercial purposes.
 
 ## Code of Conduct
