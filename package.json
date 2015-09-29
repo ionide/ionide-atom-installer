@@ -19,6 +19,7 @@
     "ionide-paket",
     "ionide-fake",
     "ionide-fsi",
-    "ionide-yeoman"
+    "ionide-yeoman",
+    "ionide-webview"
   ]
 }
