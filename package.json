@@ -12,14 +12,12 @@
     "atom-package-deps": "^2.1.3"
   },
   "package-deps": [
-    "atom-yeoman",
     "linter",
     "advanced-open-file",
     "ionide-fsharp",
     "ionide-paket",
     "ionide-fake",
     "ionide-fsi",
-    "ionide-yeoman",
     "ionide-webview"
   ]
 }
