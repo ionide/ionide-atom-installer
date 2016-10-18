@@ -1,3 +1,6 @@
+### 1.3.0 - 18.10.2016
+* Remove `ionide-yeoman`
+
 ### 1.2.0 - 29.09.2015
 * Include `ionide-webview`
 
