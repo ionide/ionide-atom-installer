@@ -1,3 +1,5 @@
+## [Project is deprecated]
+
 # Ionide-Installer
 
 ## Contributing and copyright
